@@ -28,5 +28,5 @@ extra-package-dbs: []
 # arch: x86_64
 
 # Extra directories used by stack for building
-# extra-include-dirs: [/path/to/dir]
-# extra-lib-dirs: [/path/to/dir]
+#extra-include-dirs: [/usr/local/cuda-7.5/lib64/]
+extra-lib-dirs: [/usr/local/cuda-7.5/lib64/]
